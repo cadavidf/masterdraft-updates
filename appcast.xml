@@ -3,6 +3,17 @@
     <channel>
         <title>Master Draft</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 22 Oct 2026 22:24:38 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/cadavidf/masterdraft-updates/main/MasterDraft-1.0.1-universal.dmg" length="2033363" type="application/octet-stream" sparkle:edSignature="pap18QaP3ovMeVkG5MkM1LQIPBO8pvrnC1VM2SnzdXFfJbaCx4Pt6ICE45CCN34aYEpZD93qekHDINWh7SVXBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/cadavidf/masterdraft-updates/main/Master%20Draft2-1.delta" sparkle:deltaFrom="1" length="97930" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="v4VIBzTjdAHGmfUYA+kwiCsKDGCIavhY92hrIUy6Uw0B/crBGjbCp5HhJsCqracxR3qnL+tOejOag7Q4pCGwCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Sat, 20 Jun 2026 13:11:20 -0500</pubDate>
             <sparkle:version>1</sparkle:version>
